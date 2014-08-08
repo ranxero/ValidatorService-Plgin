@@ -15,8 +15,10 @@ The code was autp generated with bake commands
 but when calling url: 
 localhost/cake/validator_service/validators 
 
-I get this error(of course the controller class is there - see source code): 
-(this error does not occur with controllers outside plugins)
+I get this error(of course the controller class is there - see source code) 
+note: this error does not occur with controllers outside plugins)
+
+Error Message:
 ----------------------------
 
 Missing Controller
